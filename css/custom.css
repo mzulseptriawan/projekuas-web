@@ -1,0 +1,16 @@
+.form-content{
+background: #fbfbfb;
+border: none;
+outline: none;
+padding-top: 14px;
+border-radius: 20px;
+padding: 20px;
+transition: .5s;}
+
+.smooth{
+animation: 1s infinite;
+}
+
+.warnacard-jam{
+background-color: #D7FDDA;
+}
